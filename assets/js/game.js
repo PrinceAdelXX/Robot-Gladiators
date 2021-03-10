@@ -5,7 +5,8 @@ var playerAttack = 10;
 var playerMoney = 10;
 
 console.log(playerName);
-console.log(playerHealth, playerAttack, playerMoney);
+console.log(playerHealth, playerAttack, playerMoney); 
+s
 
 var enemyName = "Roborto";
 var enemyHealth = 50;
